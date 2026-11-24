@@ -17,7 +17,7 @@
   <a href="https://github.com/Akayya/AIC_CursorFix"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Akayya&repo=AIC_CursorFix&hide_border=true&theme=transparent&title_color=36BCF7&icon_color=36BCF7&text_color=8b949e" alt="AIC_CursorFix" /></a>
 </p>
 
-**[豆格 Douge](https://github.com/Akayya/Douge-Bead-Pattern)** — 纯离线的安卓拼豆辅助 App：图片自动转图纸、手工绘制、豆数成本统计、施工模式、A4 分页 PDF / CSV / PNG 导出。不联网、无账号。
+**[豆格 Douge](https://github.com/Akayya/Douge-Bead-Pattern)** — 纯离线的安卓拼豆辅助 App：图片自动转图纸、手工绘制、豆数成本统计、施工模式、A4 分页 PDF / CSV / PNG 导出。
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white) ![Android 11+](https://img.shields.io/badge/Android%2011%2B-3DDC84?style=flat-square&logo=android&logoColor=white) ![Offline](https://img.shields.io/badge/Offline-2f3640?style=flat-square)
 
